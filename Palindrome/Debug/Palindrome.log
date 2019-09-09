@@ -1,0 +1,4 @@
+﻿  Palindrome.cpp
+c:\users\muban\bbd prep\arrays and strings\palindrome\palindrome\palindrome\palindrome.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\muban\bbd prep\arrays and strings\palindrome\palindrome\palindrome\palindrome.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  Palindrome.vcxproj -> C:\Users\muban\BBD Prep\Arrays and Strings\Palindrome\Palindrome\Debug\Palindrome.exe
